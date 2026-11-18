@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:"/pfp-hub-v2-prototype/_next/static/chunks/3qfy96eoyh-ek.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+5:"/pfp-hub-v2-prototype/_next/static/chunks/3zt_16xndew4w.js"
+6:I[22016,["$2","$5"],""]
+d:I[97367,["$2"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[97367,["$2"],"$11"]
+13:"MetadataBoundary"
+14:I[97367,["$2"],"$13"]
+15:I[27201,["$2"],"IconMark"]
+:HL["/pfp-hub-v2-prototype/_next/static/chunks/1s04y_hdogq2-.css","style"]
+8:X
+b:X
+b:C
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"className":"mx-auto w-full max-w-[800px] px-4 py-10 sm:px-6","children":["$","p",null,{"className":"text-lg","children":["There’s no page here."," ",["$","$L6",null,{"href":"/","className":"font-semibold underline decoration-blue decoration-2 underline-offset-2 hover:text-blue","children":"The prototype’s states"}]]}]}],[["$","script","script-0",{"src":"/pfp-hub-v2-prototype/_next/static/chunks/3zt_16xndew4w.js","async":true}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$8"}}]]
+9:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@a","v":"$b","s":"$8"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/pfp-hub-v2-prototype/_next/static/chunks/1s04y_hdogq2-.css","precedence":"next"}],["$","script","script-0",{"src":"/pfp-hub-v2-prototype/_next/static/chunks/3qfy96eoyh-ek.js","async":true}]],["$","html",null,{"lang":"en","className":"JtNQbG_variable I8vxfq_variable","children":["$","body",null,{"className":"font-sans antialiased","children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[["$","main",null,{"className":"mx-auto w-full max-w-[800px] px-4 py-10 sm:px-6","children":["$","p",null,{"className":"text-lg","children":["There’s no page here."," ",["$","$L6",null,{"href":"/","className":"font-semibold underline decoration-blue decoration-2 underline-offset-2 hover:text-blue","children":"The prototype’s states"}]]}]}],[]]}]}]}]]}],"p":"$@7","v":null,"s":"$8"},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Volunteer hub v2 (prototype) · People for a Pause"}],["$","meta","1",{"name":"robots","content":"noindex, nofollow"}],["$","link","2",{"rel":"icon","href":"/pfp-hub-v2-prototype/icon.svg?icon.32543j7ebtpq3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L15","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@16","v":null,"s":"$8"}},"a":"$@17","u":"$@18","b":"lnQsn8t4N0iPwdzR2pnJZ"}
+f:null
+8:300
+18:true
+8:C
+17:0
+a:"$undefined"
+7:"$undefined"
+16:"$undefined"
+10:"$undefined"
